@@ -16,6 +16,7 @@
             });
             //$('#carousel-play').click(function(){
               //  $('#mycarousel').carousel('cycle');
+              
             //});
          });
          $(document).ready(function(){
